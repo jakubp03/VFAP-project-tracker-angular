@@ -43,6 +43,7 @@ __screenshots__/
 .DS_Store
 Thumbs.db
 
-API_GUIDE.md
+*.md
+!README.md
 .env
 !.env.example
